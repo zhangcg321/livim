@@ -1,2 +1,2 @@
 # livim
-a new whiteboard for edubestone
+a new whiteboard for smart classroom
